@@ -1,0 +1,50 @@
+body{
+    background-color: #f7f7f9  !important;
+}
+
+.navbar-brand{
+
+    height: 60px;
+}
+
+.bg-primary {
+    background-color: #ce0033 !important;
+}
+
+.nav-link{
+    font-size:medium;
+    margin-right: 130px;
+    margin-left: 160px;
+
+}
+
+.display-3{
+    font-size: 40px;
+}
+
+
+.btn{
+    min-width: 210px;
+    max-width: 210px;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: center  !important;
+    align-items: center;
+    border-radius: 3%;
+}
+
+.btn:hover{
+    background-color: #ce0033 !important;
+    border-color:white !important;
+}
+.btn:focus{
+    background-color: #ce0033 !important;
+    border-color: white !important;
+
+}
+.lead{
+    margin-right: 4px;
+}
+.lead2{
+    margin-right: 5px;
+}
